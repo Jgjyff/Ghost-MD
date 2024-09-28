@@ -10,15 +10,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348122441244"
-global.ownername = "Dark-Love-MD"
+global.ownernomer = "242069283966"
+global.ownername = "SENJU HASHIRAMA"
 global.ytname = "YT: None"
 global.socialm = "GitHub: https://github.com/ayodejibot"
 global.location = "Africa/Lagos"
 
-global.ownernumber = '2348122441244'  //creator number
-global.ownername = 'Dark-Love-MD' //owner name
-global.botname = 'Ghost-Walker ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '242069283966'  //creator number
+global.ownername = 'SENJU HASHIRAMA' //owner name
+global.botname = 'SENJU ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
@@ -37,7 +37,7 @@ global.prefa = ['','!','.','#','&']
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = false //auto typing + recording
+global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
 global.anti92 = false //auto block +92 
